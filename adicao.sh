@@ -1,7 +1,7 @@
 #!/bin/bash
 
-soma(){
-  sum=$(($1+$2))
+soma() {
+  sum=$(($1 + $2))
   echo $sum
 }
 
